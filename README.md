@@ -71,4 +71,6 @@ Output:
 
 The file from this example is provided at subjects/jquery_alert.js and you can test it immediately by opening `test.html` in the root directory of this repo.  Tested as of now in latest Chrome and Safari.
 
+Alternatively, visit https://grayleonard.github.io/interpellate/ for a live example.
+
 It works with some libraries better than others, so you may need to retry a few times before it works.
