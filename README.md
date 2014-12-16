@@ -1,5 +1,4 @@
-![Louis Althusser](https://raw.github.com/grayleonard/interpellate/master/althusser.jpg)
-Interpellate
+![Louis Althusser](https://raw.github.com/grayleonard/interpellate/master/althusser.jpg) Interpellate
 ============
 
 Novel Approach to JS Obfuscation by Inter(pell | pol)ation
