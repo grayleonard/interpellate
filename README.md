@@ -1,5 +1,4 @@
 ![Louis Althusser](https://raw.github.com/grayleonard/interpellate/master/althusser.jpg)
-
 Interpellate
 ============
 
