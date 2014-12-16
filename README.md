@@ -10,7 +10,7 @@ Novel Approach to JS Obfuscation
 
 About
 =====
-[Interpellate](https://github.com/grayleonard/interpellate/) dynamically inserts a self-executing stub into any - ideally large - minified javascript library (tested with jQuery.min.js, Facebook's sdk.js, and Google's ga.js).  The stub contains pointers to character locations in the library and, using `arguments.callee.caller`, which returns source code without any network calls, the stub self-referentially rebuilds the injected javascript and then executes it.  This is intended for small javascript snippets that are typically included inside of <script> tags or from a small file.
+[Interpellate](https://github.com/grayleonard/interpellate/) dynamically inserts a self-executing stub into any - ideally large - minified javascript library (tested with jQuery.min.js, Facebook's sdk.js, and Google's ga.js).  The stub contains pointers to character locations in the library and, using `arguments.callee.caller`, which returns source code without any network calls, the stub self-referentially rebuilds the injected javascript and then executes it.  This is intended for small javascript snippets that are typically included inside of `<script>` tags or from a small file.
 
 It takes the three file locations for arguments:
 
