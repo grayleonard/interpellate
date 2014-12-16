@@ -56,16 +56,18 @@ Usage: ./index.js [options]
 
 Example Use:
 
-`./index.js -p police/ga.js -i individuals/alert.js -s streets/template.min.js -o subjects/jquery_alert.js -v`
+`./index.js -p police/jquery.min.js -i individuals/alert.js -s streets/template.min.js -o subjects/jquery_alert.js -v`
 
 Output:
 ```
 [info]	Inserting street ...
-[info]	Inserted street after the 35th FunctionDeclaration
+[info]	Inserted street after the 29th FunctionDeclaration
 [info]	Finding char locations ...
-[info]	New iteration: eu=)tB1E)
-[info]	New iteration: al.vpoHL!
-[info]	New iteration: ratru(){t
+[info]	New iteration: alert(1)b
+[info]	New iteration: rl{p.&=ba
+[info]	New iteration: alerf(1ro
+...
+[info]	New iteration: paerts1cb
 [info]	New iteration: alert(1);
 [info]	Found match, writing to file subjects/jquery_alert.js
 ```
