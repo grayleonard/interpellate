@@ -3,6 +3,7 @@ Interpellate
 ============
 
 Novel Approach to JS Obfuscation
+Live Example: (https://grayleonard.github.io/interpellate/)
 
 > I shall then suggest that ideology ‘acts’ or ‘functions’ in such a way that it ‘recruits’ subjects among the individuals (it recruits them all), or ‘transforms’ the individuals into subjects (it transforms them all) by that very precise operation which I have called interpellation or hailing, and which can be imagined along the lines of the most commonplace everyday police (or other) hailing: ‘Hey, you there!’
 
