@@ -2,7 +2,7 @@
 Interpellate
 ============
 
-Novel Approach to JS Obfuscation
+Novel Approach to JS Obfuscation by Inter(pell | pol)ation
 
 Live Example: https://grayleonard.github.io/interpellate/
 
