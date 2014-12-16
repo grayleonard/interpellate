@@ -56,7 +56,7 @@ Usage: ./index.js [options]
 
 Example Use:
 
-`./index.js -p police/ga.js -i individuals/citizen.js -s streets/template.min.js -o subjects/jquery_alert.js -v`
+`./index.js -p police/ga.js -i individuals/alert.js -s streets/template.min.js -o subjects/jquery_alert.js -v`
 
 Output:
 ```
