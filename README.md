@@ -36,6 +36,7 @@ until pos_string == individual:
 
 Usage
 =====
+Requirements: Node.js 0.10+
 
 Download with `git clone https://github.com/grayleonard/interpellate.git`
 
